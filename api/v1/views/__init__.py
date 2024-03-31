@@ -6,4 +6,3 @@ app_views = Blueprint('app_views', __name__, url_prefix='/api/v1')
 # ...
 
 # Make sure there are no other statements between imports and route definitions
-
